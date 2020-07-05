@@ -1,16 +1,12 @@
-# flutter_app
+# Random username generator in Flutter
 
-A flutter app for ...
+An infinite scrolling list of random usernames. As you scroll along, it generates new random
+usernames using the english language.
 
-## Getting Started
+When you can't decide what username to use, this may provide inspiration.
 
-This project is a starting point for a Flutter application.
+The code is located in the ``lib`` directory.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Future tasks:
+- Add support for other languages (i.e., 'labaguette')
+- Add numbers to usernames (but, this time, there's a good chance the username is available without having to add numbers)

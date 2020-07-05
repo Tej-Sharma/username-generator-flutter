@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:english_words/english_words.dart';
 
-
 /// Build a ListView with each row as a randomly generated username
 class WordList extends StatefulWidget {
   @override
